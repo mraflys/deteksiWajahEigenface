@@ -1,0 +1,5 @@
+**/own_dataset/**
+**/ipynb_checkpoints/**
+/absent
+/orl_faces
+/testing
